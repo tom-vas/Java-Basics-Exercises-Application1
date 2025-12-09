@@ -1,4 +1,3 @@
-# Java-Basics-Exercises-Application1
 # Java Basics – Application1
 A simple Java console application containing 8 introductory programming tasks. Each task is implemented as a separate method and is tested through user input in the `main()` method.
 
